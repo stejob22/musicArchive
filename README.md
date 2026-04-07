@@ -1,2 +1,2 @@
-# musciArchive
+# musicArchive
 Pos-Project -> Music Archive
